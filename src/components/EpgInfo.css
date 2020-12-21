@@ -1,0 +1,9 @@
+.EpgInfo {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+}
+
+.EpgInfo > *{
+    margin-bottom: 1rem;
+}
